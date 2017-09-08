@@ -1,0 +1,139 @@
+p{
+    
+    font-family: cursive;
+    font-size: 35px;
+    align-content: center;
+    
+}
+#myHead{
+    width: 300px;
+    height: 300px;
+    background-color: #cc9966;
+    position: absolute;
+    top: 200;
+    right: 300;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    
+    
+}
+
+#myMouth{
+    width: 200px ;
+    height: 115px ;
+    background-image: url(http://vignette3.wikia.nocookie.net/battlefordreamisland/images/a/ac/Durr_Hurr_Mouth.png/revision/latest?cb=20130103232314);
+    position: absolute;
+    top: 400;
+    right: 320; 
+    background-size: 70%;
+    background-repeat: no-repeat
+
+}
+.Name{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+     top: 570;
+    right: 300;
+    
+} 
+
+.spaceLeft{
+    position: absolute;
+    width: 30px;
+    height: 100px;
+    background-color: white;
+    top: 620;
+    right: 600;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 50px;
+}
+
+.spaceRight{
+    position: absolute;
+    width: 30px;
+    height: 100px;
+    background-color: white;
+    top: 620;
+    right: 270;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 100px;
+}
+
+.circle{
+    width: 60px;
+    height: 100px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    background-color:  #cc9966;
+    top: 300;
+    right: 0
+    
+}
+
+.myShoulders{
+    position: absolute;
+    width: 550px;
+    height: 170px;
+    background-color: coral;
+    top: 550;
+    right: 180;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    
+}
+.myNeck{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: #cc9966;
+    top: 480;
+    right: 400;
+        
+}
+.myHair{
+     width: 300px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 130;
+    right: 300;
+    border-top-left-radius: 75px;
+    border-top-right-radius: 75px;
+    
+}
+
+.myEyeballs{
+    background-image: url( eye.png);
+    width: 100;
+    height: 110;
+    background-size: 70%;
+    background-repeat: no-repeat;
+}
+
+#myLeftEyeball{
+    position: absolute;
+    top: 240;
+    right: 300
+}
+
+#myRightEyeball{
+    position: absolute;
+    top: 240;
+    right: 460;
+}
+
+
+#myNose{
+ width:100px;
+    height: 100px;
+    background-image: url(http://emojipedia-us.s3.amazonaws.com/cache/41/cf/41cf980bc891a586b7b4551d5c76fb7f.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    top: 300;
+    right: 400;
+}
